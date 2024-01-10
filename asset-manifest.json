@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/edited-mhiz-brandy-authenticate/static/css/main.1319e149.css",
+    "main.js": "/edited-mhiz-brandy-authenticate/static/js/main.45129e04.js",
+    "static/css/72.31c4de37.chunk.css": "/edited-mhiz-brandy-authenticate/static/css/72.31c4de37.chunk.css",
+    "static/js/72.6f9ebab8.chunk.js": "/edited-mhiz-brandy-authenticate/static/js/72.6f9ebab8.chunk.js",
+    "static/js/787.57ad5f5e.chunk.js": "/edited-mhiz-brandy-authenticate/static/js/787.57ad5f5e.chunk.js",
+    "static/js/161.ea60b1f1.chunk.js": "/edited-mhiz-brandy-authenticate/static/js/161.ea60b1f1.chunk.js",
+    "index.html": "/edited-mhiz-brandy-authenticate/index.html",
+    "main.1319e149.css.map": "/edited-mhiz-brandy-authenticate/static/css/main.1319e149.css.map",
+    "main.45129e04.js.map": "/edited-mhiz-brandy-authenticate/static/js/main.45129e04.js.map",
+    "72.31c4de37.chunk.css.map": "/edited-mhiz-brandy-authenticate/static/css/72.31c4de37.chunk.css.map",
+    "72.6f9ebab8.chunk.js.map": "/edited-mhiz-brandy-authenticate/static/js/72.6f9ebab8.chunk.js.map",
+    "787.57ad5f5e.chunk.js.map": "/edited-mhiz-brandy-authenticate/static/js/787.57ad5f5e.chunk.js.map",
+    "161.ea60b1f1.chunk.js.map": "/edited-mhiz-brandy-authenticate/static/js/161.ea60b1f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1319e149.css",
+    "static/js/main.45129e04.js"
+  ]
+}
